@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the hamlet of Wapping, in answer to White-Chappel, concerning their high-ways.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01890</idno>
+            <idno type="STC">Wing C087</idno>
+            <idno type="STC">ESTC R171002</idno>
+            <idno type="EEBO-CITATION">52211949</idno>
+            <idno type="OCLC">ocm 52211949</idno>
+            <idno type="VID">175519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01890)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175519)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2739:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the hamlet of Wapping, in answer to White-Chappel, concerning their high-ways.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Half-title on p. [4]: Wapping's answer to White-Chappel.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Page [3] is blank.</note>
+                  <note>Imperfect: print show-through with some loss of text.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Highway law --  England --  Early works to 1800.</term>
+               <term>Roads --  England --  Wapping --  Maintenance and repair --  Early works to 1800.</term>
+               <term>Roads --  England --  Whitechapel --  Maintenance and repair --  Early works to 1800.</term>
+               <term>Wapping (London, England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Whitechapel (London, England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175519:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 53 -->
+            <head>THE CASE OF THE Hamlet of Wapping, In Anſwer to <hi>White-Chappel,</hi> concerning Their HIGH-WAYS.</head>
+            <p n="1">I. <hi>WApping</hi> is at great Expence in maintaing the <hi>Common-Sewers</hi> and <hi>Outlets,</hi> which receive and convey a great part of the Water of <hi>White-Chappel,</hi> which has lately coſt the Inhabitants of <hi>Wap<g ref="char:EOLhyphen"/>ping</hi> ſome <hi>Hundreds of Pounds,</hi> of which <hi>White-Chappel</hi> (not<g ref="char:EOLhyphen"/>withſtanding they receive the Common Benefit) contribute not a Farthing.</p>
+            <p n="2">II. <hi>White-Chappel</hi> (in reſpect of the Pariſh) has the <hi>only Advantage</hi> in point of Trade, by the Road which they repreſent, as ſo very Chargeable, having in particular an Hay-Market in Their Street thrice a Week, and from every Hay-Cart they receive 2 <abbr>
+                  <hi>d.</hi>
+               </abbr> for their Scavengers,<note n="*" place="margin">The Scavengers have let their Profits of the <hi>Hay-Market</hi> for <hi>25.</hi> 
+                  <abbr>l.</abbr> per Annum.</note> and 2 <abbr>
+                  <hi>d.</hi>
+               </abbr> to each Houſe before which they ſtand; beſides all other Advantages in reſpect of Cuſtom to their Houſes, <hi>&amp;c.</hi> but not the leaſt Benefit accrues to <hi>Wapping</hi> by <hi>White-Chappel</hi> High-way, That being hear a Mile and a Half diſtant from it.</p>
+            <p n="3">III. <hi>Wapping</hi> never paid more than <hi>Six Pounds per Annum,</hi> towards the Re<g ref="char:EOLhyphen"/>pairs of <hi>White-Chappel</hi> High-way, till the Year 1679, till which time they had <hi>Sur<g ref="char:EOLhyphen"/>veyors</hi> of their own, and having by that time, at the great Expence of near 700 <abbr>
+                  <hi>l.</hi>
+               </abbr> (which is above 40 <hi>
+                  <abbr>l.</abbr> per Annum</hi> Intereſt) Pav'd then High-ways, which were Gravell'd at yearly Charge; <hi>White-Chappel</hi> then took the Advantage of breaking the Old Contract of 6 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> and have ſince moſt unjuſtly Collected Arbitrary Sums, in particular, in the Year 1692, They Collected 17 <abbr>
+                  <hi>l.</hi>
+               </abbr> more than they brought to Account.</p>
+            <p n="4">IV. Two Subſtantial Inhabitants of <hi>White-Chappel,</hi> (one of which has been formerly <hi>Surveyor</hi>) did this very Year offer to maintain their High-ways at 100 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> for Seven Years ſucceſſively, and give Security to the Pariſh to ſave them from Damage.</p>
+            <p n="5">V. There will be, without <hi>Wapping,</hi> in <hi>White-Chappel</hi> Pariſh at leaſt 3000 Houſes, (and more are ſtill building from new Foundations) and ſuppoſing but 2000 Inhabitants ſhould perform Statute Labour, or pay for ſo doing but 1 <hi>
+                  <abbr>s.</abbr> per</hi> Houſe, it will make up the Sum propos'd by the Undertakers, which diſcovers that their Charge is inconſiderable.</p>
+            <pb facs="tcp:175519:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 54 -->
+            <p n="6">VI. The Pariſh of St. <hi>Anns</hi> (which they bring as a Preſident) did never (as an Hamlet) lay out 700 <abbr>
+                  <hi>l.</hi>
+               </abbr> on their own High-ways, diſtinct from the Pariſh at large, as <hi>Wapping</hi> has done; Neither have they Common-Sewers be<g ref="char:EOLhyphen"/>neficial, and not chargeable to the other Pariſh, neither any Damms againſt the River of <hi>Thames,</hi> which create a continual Charge unto the Inhabitants: So that the Caſe is not at all alike. But contrary to this the Hamlet of <hi>Shad<g ref="char:EOLhyphen"/>well</hi> was ſeparated from <hi>Stepney,</hi> a Neighbouring Pariſh to <hi>White-Chappel,</hi> by Act of Parliament in the Year 1670, without being made Contributary to <hi>Stepney</hi> High-ways, notwithſtanding <hi>Stepney</hi> has above ſix times more High-ways than <hi>White-Chappel.</hi>
+            </p>
+            <p n="7">VII. As to the Charities, tis wonderful with what Confidence they can offer ſo great a Falſhood to this <hi>Honourable Houſe,</hi> to detect which, we here ſet forth what <hi>They</hi> are, according to their own Book and Rent-roll.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell role="label">
+                        <abbr>
+                           <hi>s.</hi>
+                        </abbr>
+                     </cell>
+                     <cell role="label">
+                        <abbr>
+                           <hi>d.</hi>
+                        </abbr>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Total of the Rent-roll produc'd before the Honorable Committee</hi>
+                     </cell>
+                     <cell>129</cell>
+                     <cell>14</cell>
+                     <cell>04</cell>
+                     <cell>
+                        <hi>per Annum.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Of this there is (as appears by their own Books) reſtr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ined to</hi> White-Chappel, <hi>excluſive of</hi> Wapping <hi>the following Charities;</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>1. <hi>Mrs.</hi> Agnes Smith, <hi>gave to the upper part of the Pariſh</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>per Annum.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2. <hi>Mr.</hi> Fabian Poſtilath,</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>per Annum.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>3. <hi>Mr.</hi> Thomas Morrice,</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>per An.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4. <hi>The</hi> Vinters Company,</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>per An.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mrs.</hi> Alice Row <hi>gave in Caſh,</hi>—50 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>5. <hi>Mr.</hi> Brown,</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>per An.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>6. <hi>Mr.</hi> Biggs,</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>per An.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Mrs.</hi> Paradine 100 <abbr>
+                                 <hi>l.</hi>
+                              </abbr>
+                           </item>
+                           <item>
+                              <hi>Alderman</hi> Hillard 50 <abbr>
+                                 <hi>l.</hi>
+                              </abbr>
+                           </item>
+                        </list> 
+                        <hi>With they Purchaſed,</hi>
+                     </cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>per An.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>7. <hi>Mr.</hi> Holbrook,</cell>
+                     <cell>2</cell>
+                     <cell>19</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>per An.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total">
+                        <hi>In all</hi>
+                     </cell>
+                     <cell role="total">24</cell>
+                     <cell role="total">10</cell>
+                     <cell role="total">00</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>This is a moſt true Account of their Book and Rent-Roll; except a new Purchaſe diſputable, not in the Rent-Roll: But beſides, there are ſeveral Alms-Houſes; 100 <abbr>
+                  <hi>l.</hi>
+               </abbr> given by the laſt Rector, A Free-School already built and en<g ref="char:EOLhyphen"/>dowed by him with 40 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> after two very old Lives: All which <hi>Wap<g ref="char:EOLhyphen"/>ping</hi> ſhall loſe the benefit of by being made a Pariſh.</p>
+            <p n="8">VIII. Tho <hi>Wapping</hi> maintain their own Poor, yet as appears even by <hi>White-Chappel</hi> Book, (as well as other Evidence) which has reſtrain'd ſome Charities to the upper part of the Pariſh which implies that the reſt are not reſtrained) They ought to have their part of the Publick Charities, which have been de<g ref="char:EOLhyphen"/>manded, particularly by <hi>Philip d' Aſſigny</hi> late <hi>Chappel-Warden,</hi> though ſhiftingly refus'd, and unjuſtly detain'd, by the Upper <hi>Hamlet.</hi>
+            </p>
+            <p>
+               <hi>Theſe things having been more fully made appear to the Honourable</hi> Committee, <hi>be<g ref="char:EOLhyphen"/>fore whom this Matter was Hoard,</hi> Wapping <hi>therefore does hope, that this</hi> Honourable Houſe <hi>will make no ſuch Reſervation, as is unjuſtly deſir'd by the <g ref="char:V">Ʋ</g>pper Hamlet, ſince paſſing the Bill without it, will rather be an Advan<g ref="char:EOLhyphen"/>tage, than Prejudice to</hi> White-Chappel.</p>
+            <pb facs="tcp:175519:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <p>
+               <hi>Wapping</hi>'s Anſwer to <hi>White-Chappel.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
